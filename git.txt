@@ -1,0 +1,142 @@
+    1  git clone https://github.com/S0mbre/crossword.git .
+    2  git clone https://github.com/S0mbre/crossword.git
+    3  cd myproject
+    4  mkdir myprojects
+    5  venv pycross
+    6  cd crossword/
+    7  venv pycross
+    8  python -m pip install -r requirements.txt 
+    9  pip install --upgrade pycrossword
+   10  ls
+   11  cd pycross/
+   12  pycross.bat
+   13  python crossword.py 
+   14  cd
+   15  cd PycharmProjects/
+   16  cd
+   17  ls
+   18  cd crossword/
+   19  python setup.py 
+   20  python-m venv venv
+   21  python -m venv venv
+   22  cd venv/Scripts/activate
+   23  .\venv/Scripts/activate
+   24  ./venv/Scripts/activate
+   25  python cwordg.py -o c:/crossword.xpf
+   26  cd ..
+   27  ls
+   28  cd crossword/
+   29  ls
+   30  cd pycross/
+   31  ls
+   32  python cwordg.py -o "C:/crossword.xpf"
+   33  python cwordg.py -o C:/crossword.xpf
+   34  git --version
+   35  ls
+   36  pwd
+   37  git config --global user.name "git-test"
+   38  git config --global user.email "demokeytest@gmail.com"
+   39  git config list
+   40  git config --list
+   41  git config --list
+   42  ls
+   43  cd Documents/
+   44  cd Gitdemo/
+   45  ls
+   46  ll -la
+   47  vim index.html
+   48  git init
+   49  git add index.html 
+   50  git add *
+   51  git status 
+   52  git commit -m "This is html file"
+   53  git branch
+   54  git status 
+   55  git log
+   56  vim index2.html
+   57  git init
+   58  git add index1.html 
+   59  git add index2.html 
+   60  git commit -m "This is second html file"
+   61  git status 
+   62  git log
+   63  git add .
+   64  git remote add origin https://github.com/joho00256/bash.git
+   65  git push -u origin main
+   66  git push -u origin master
+   67  git push -u origin main 
+   68  git push -u origin main 
+   69  git push -u origin main 
+   70  git push -u origin main
+   71  git push -u origin master
+   72  git push -u origin main
+   73  git fetch origin
+   74  git merge origin/main
+   75  git rebase origin/main
+   76  git merge origin/main
+   77  git push -u origin main
+   78  history 
+   79  git init 
+   80  mkdir testgit
+   81  cd testgit/
+   82  cat > details.txt
+   83  git status 
+   84  git add .
+   85  git status 
+   86  git commit -m "This is for new repo"
+   87  git status 
+   88  git log
+   89  git show  e8fd9f5c8891d7e8792bff8ea7e769bd207c9349
+   90  git show e8fd9f5c8891d7e8792bff8ea7e769bd207c9349
+   91  git log
+   92  git show  7f54c4282c59e815a0797d6464b2818a3b73fbb0
+   93  git show 3b21c740bc201d9c25fb4af4ce967de46712ad4e 
+   94  git remote add origin https://github.com/joho00256/bash.git
+   95  git push -u origin main
+   96  mkdir test2
+   97  cd
+   98  cd Documents/
+   99  cd Gitdemo/
+  100  mkdir Linux
+  101  rm Linux/
+  102  rm -rf Linux/
+  103  git init
+  104  mkdir Linux
+  105  cd Linux/
+  106  vi echo.sh
+  107  git status 
+  108  git add .
+  109  git status 
+  110  git commit -m  "This is Bash Script"
+  111  git status 
+  112  git log
+  113  git push -u origin main
+  114  git  status 
+  115  pwd
+  116  ls
+  117  cd Documents/
+  118  ls
+  119  cd Git_test/
+  120  ls
+  121  git init
+  122  git status
+  123  touch git.txt
+  124  git status 
+  125  git add .
+  126  git status 
+  127  git commit -m "This is Git related file"
+  128  git status 
+  129  git log
+  130  git show 8733a38b971b3453d7774ff2b11a7c7b77e6fbdf
+  131  git remote add origin https://github.com/robokeytest/Tree.git
+  132  git status 
+  133  git push -u origin 
+  134  git push -u origin main
+  135  git push --set-upstream origin main
+  136  git push -u origin main
+  137  git fetch origin 
+  138  git merge origin/main
+  139  git rebase  origin/main
+  140  git merge origin/main
+  141  git push -u origin main
+  142  history > git.txt 
